@@ -1,0 +1,6 @@
+com\johnabbott\library\service\BookServiceImpl.class
+com\johnabbott\library\configuration\WebAppInitializer.class
+com\johnabbott\library\configuration\WebMvcConfig.class
+com\johnabbott\library\controller\BookController.class
+com\johnabbott\library\model\Book.class
+com\johnabbott\library\service\bookService.class
